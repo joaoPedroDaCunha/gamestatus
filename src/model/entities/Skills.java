@@ -1,5 +1,5 @@
 package model.entities;
 
-public class Skills {
+public class Skills extends PlayerPerfil{
 
 }

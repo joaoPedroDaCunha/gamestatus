@@ -1,5 +1,5 @@
 package model.entities;
 
-public class Class {
-
+public class Class extends Proprietis{
+	
 }

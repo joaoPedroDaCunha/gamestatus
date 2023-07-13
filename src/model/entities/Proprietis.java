@@ -1,5 +1,5 @@
 package model.entities;
 
-public class Proprietis {
+public class Proprietis extends PlayerPerfil{
 
 }
