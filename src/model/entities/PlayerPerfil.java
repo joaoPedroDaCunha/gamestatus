@@ -6,6 +6,10 @@ public class PlayerPerfil {
 	
 	
 
+	public PlayerPerfil() {
+		super();
+	}
+
 	public PlayerPerfil(String name) {
 		super();
 		this.name = name;

@@ -8,6 +8,7 @@ public class Proprietis extends PlayerPerfil{
 	private int reis;
 	private int dext;
 	private int intel;
+	
 	public Proprietis(String name) {
 		super(name);
 		this.hp = hpIstaceof();
@@ -17,6 +18,14 @@ public class Proprietis extends PlayerPerfil{
 		this.dext = 0;
 		this.intel = 0;
 	}
+	
+	
+
+	public Proprietis() {
+	}
+
+
+
 	public int getHp() {
 		return hp;
 	}
